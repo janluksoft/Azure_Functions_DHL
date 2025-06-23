@@ -1,4 +1,4 @@
-> Return to <a href="https://github.com/janluksoft/Contents_test#idAzure"><b>menu</b></a>.
+> Return to <a href="https://github.com/janluksoft/Contents#idAzure"><b>menu</b></a>.
 
 # Azure Function: Automatic ordering of DHL courier
 
